@@ -9,6 +9,8 @@ För att starta upp projektet:
 - npm run dev (startar upp appen i en dev-server som kontrollerar om ändringar i koden sker. Efter varje ändring laddas appen automatiskt om av servern.)
 - och sedan ange detta i en webbläsare: http://localhost:5173/
 
+- Appen använder sig av Browser Router, installeras med:
+- npm i react router
 
 Innan jag startade igång projektet rensade jag bort filer och kod jag inte kände att jag behövde, mycket också för att starta från en blank sida. 
 
